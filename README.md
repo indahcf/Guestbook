@@ -34,6 +34,6 @@ Here are the tools we used to build the application:
 
    ![1  Halaman Utama](https://github.com/indahcf/Guestbook/assets/104883886/73c70eeb-4065-48c5-90e3-efb67fb9e2ff)
 
-2. Add Guestbook
+2. Add Guest
 
    ![2  Halaman Tambah Data Buku Tamu](https://github.com/indahcf/Guestbook/assets/104883886/e8584e14-92e9-4f29-8381-a80feb207634)
